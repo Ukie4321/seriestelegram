@@ -22,12 +22,19 @@
       "ep8": "BAACAgEAAxkBAANMaMLydwEDCuoWxo_eGsbqxl8X_KIAAhgFAAIWFvlG8aZ8DjQrV_o2BA"
     }
   },
-  "naruto": {
-    "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg",
+  "fairly_oddParents_a_new_wish": {
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlKBes_v9DssYyLdHrv81QGSzxM6FpbgLnvcDVxg7gfm8JydYR2Fima0&s=10",
     "episodes": {
-      "ep1": "FILE_ID_NARUTO_1",
-      "ep2": "FILE_ID_NARUTO_2",
-      "ep3": "FILE_ID_NARUTO_3"
+      "ep1": "BAACAgQAAxkBAAOBaMMTRdRcuzceojI-HTEFIiDtwvoAAuIZAAJzeoBSUDZNdea0UUk2BA",
+      "ep2": "BAACAgEAAxkBAAOCaMMTRem9F7uaBoRXcsIXFsh2B2EAAlQEAALUlThGh37QTAABYvvBNgQ",
+            "ep3": "BAACAgEAAxkBAAODaMMTRY7s1btCOueO-5H1dnDmmqMAAlUEAALUlThG4LYsMnuFbHo2BA",
+      "ep4": "BAACAgEAAxkBAAOEaMMTRavAoPiz7MeryiGPdjK2GRgAAlkEAALUlThGzWd7oyCZgl02BA",
+            "ep5": "BAACAgEAAxkBAAOFaMMTRd8x9-zs_wv9WkJkgGellKAAAl0EAALUlThGw5EgU6MUnY02BA",
+      "ep6": "BAACAgEAAxkBAAOGaMMTRbcoQLAgcAvQP2cVvtpkDDMAAmEEAALUlThGIBBn4nB-jNM2BA",
+            "ep7": "BAACAgEAAxkBAAOHaMMTRVk0a5yiRgrgPvpB4cyHVjsAAmYEAALUlThGnNkq08tS3CA2BA",
+      "ep8": "BAACAgEAAxkBAAOIaMMTRZ0Op-iuCIx5huHt_EOwuzgAAmoEAALUlThGAAGUyMxvan_YNgQ",
+            "ep9": "BAACAgEAAxkBAAOJaMMTRWT0B1NNgoI9vQJi8-nyIIoAAnIEAALUlThGHRe597o_DdM2BA",
+      "ep10": "BAACAgEAAxkBAAOKaMMTRba_17dRo2RsiLrbZ6WSIFsAAnUEAALUlThG9IyIbTk307g2BA"
     }
   }
 }
