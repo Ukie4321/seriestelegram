@@ -1,0 +1,33 @@
+{
+  "kaiju_no_8": {
+    "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/c2257c075677c3bfe0d66b46411529fb.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAMGaMJqf2v1TCJP-IrHSH5uBctzse8AAmIGAAIBVKBEAUo9YIHEgyk2BA",
+      "ep2": "BAACAgEAAxkBAAMHaMJqf7doNURpF25OdbFXrbKIbhIAAq8FAAJcanFF-PTdY4QhpTo2BA",
+      "ep3": "BAACAgEAAxkBAAMIaMJqf2RcGC0alKI0L5SDJ6SOlFsAArUFAAJcanFFpSvo0S18RJA2BA",
+      "ep4": "BAACAgEAAxkBAAMJaMJqf2rbNvVIqPfpVLoXYq0ZwDYAArIFAAJcanFFYMR_8OHO4wQ2BA",
+      "ep5": "BAACAgEAAxkBAAMKaMJqfxJjGahf7fBa4AeuXfdY7LwAArMFAAJcanFF0pPnB_Eg_pQ2BA"
+    }
+  },
+  "lookism": {
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGYPWbi9Bhs_6iFFwgzMls9WBbYgz5QAsnmDnL1JOzEw5iqNo0VD7f7I&s=10",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAANFaMLyd17zRt325pxyWbwSxLX69RAAAhEFAAIWFvlGPp6PO6mjJFM2BA",
+      "ep2": "BAACAgEAAxkBAANGaMLyd30RUpGQZFu0VFQEqA8cRg4AAhIFAAIWFvlGN6CjkB0G5wY2BA",
+      "ep3": "BAACAgEAAxkBAANHaMLydwPkl4Rn8NkrkzqwoM8oiXoAAhMFAAIWFvlGEZy8UqU1X-Y2BA",
+      "ep4": "BAACAgEAAxkBAANIaMLyd19YWxvyoxEGsNJxYiJUbPoAAhQFAAIWFvlGY7rH1wYMnlU2BA",
+      "ep5": "BAACAgEAAxkBAANJaMLydxFc3A5okFMvOWDjZihgiwwAAhUFAAIWFvlGfMcP0c_nzh02BA",
+      "ep6": "BAACAgEAAxkBAANKaMLydw1cBhrckM75KvXs-vGOybgAAhYFAAIWFvlGxMZMeK8iWPI2BA",
+      "ep7": "BAACAgEAAxkBAANLaMLyd1IuPNz0HQIXupmf4CE6o7oAAhcFAAIWFvlGv7YVW7wPkU82BA",
+      "ep8": "BAACAgEAAxkBAANMaMLydwEDCuoWxo_eGsbqxl8X_KIAAhgFAAIWFvlG8aZ8DjQrV_o2BA"
+    }
+  },
+  "naruto": {
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg",
+    "episodes": {
+      "ep1": "FILE_ID_NARUTO_1",
+      "ep2": "FILE_ID_NARUTO_2",
+      "ep3": "FILE_ID_NARUTO_3"
+    }
+  }
+}
