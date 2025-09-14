@@ -9,6 +9,19 @@
       "ep5": "BAACAgEAAxkBAAMKaMJqfxJjGahf7fBa4AeuXfdY7LwAArMFAAJcanFF0pPnB_Eg_pQ2BA"
     }
   },
+    "weak_hero_season1": {
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphporBdfsSoBuT7zUQqUl2WCHEqfP4u4LXZYaDVSIRF0KpMQszLdA6_0b&s=10",
+    "episodes": {
+      "ep1": "BAACAgQAAxkBAAPIaMNeHxD3Paqz7LQ39L05q4NZ6DUAAiEhAAKCuDlTKoDJ4xR5J682BA",
+      "ep2": "BAACAgQAAxkBAAPJaMNeH_EOBSMMnz0WaelTIn7mJ1QAAiYhAAKCuDlTeVzsaNlAutY2BA",
+      "ep3": "BAACAgQAAxkBAAPKaMNeHwW5L8ssZvE1QxPlqqVRIZ4AAikhAAKCuDlTTLin9maZUyI2BA",
+      "ep4": "BAACAgQAAxkBAAPLaMNeH2V1NuKuwpkUhFaryYRepS0AAishAAKCuDlTsjQNOrR9dqQ2BA",
+      "ep5": "BAACAgQAAxkBAAPMaMNeH1rdRLvmtnflEesBUyG8cQIAAi4hAAKCuDlT4d_Wg-o--xQ2BA",
+      "ep6": "BAACAgQAAxkBAAPNaMNeH-ENz_g7pTMFzJ2P13yf60YAAjMhAAKCuDlTXQuhp_EBQKg2BA",
+      "ep7": "BAACAgQAAxkBAAPOaMNeH-uAChAwec7PuMElEUuov08AAjghAAKCuDlT5PHacrDebUc2BA",
+      "ep8": "BAACAgQAAxkBAAPPaMNeH5ZX5tUgb0hlSsSOi4a3KXwAAjshAAKCuDlTVcgRYiBVXYY2BA"
+    }
+  },
   "lookism": {
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcGYPWbi9Bhs_6iFFwgzMls9WBbYgz5QAsnmDnL1JOzEw5iqNo0VD7f7I&s=10",
     "episodes": {
