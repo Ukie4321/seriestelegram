@@ -47,8 +47,7 @@
   },
 
   "warkop_dki": {
-    "poster": "https://api.pcloud.com/getpubthumb?code=XZga1e5ZW6fy1cJnnxFl9rAoxsCryblnF1ok&linkpassword=&size=1440x750&crop=0&type=auto
-",
+    "poster": "https://api.pcloud.com/getpubthumb?code=XZga1e5ZW6fy1cJnnxFl9rAoxsCryblnF1ok&linkpassword=&size=1440x750&crop=0&type=auto",
     "episodes": {
       "ep1": "BAACAgUAAyEFAASt-BpTAAIFwWjRHqTPSLaICkztzGhZnN5aemkiAAIKAgAChOooVEv7yaLVh_6sNgQ",
       "ep2": "BAACAgUAAyEFAASt-BpTAAIFwmjRHqsH7AXEe9xK1t45EwyWhtmVAAIJAgAChOooVInYE9XJOxqENgQ",
