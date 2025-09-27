@@ -47,7 +47,7 @@
   },
 
   "warkop_dki": {
-    "poster": "https://i.pinimg.com/736x/3e/6a/5c/3e6a5c8405a318efe0adb39d2cee363c.jpg
+    "poster": "https://api.pcloud.com/getpubthumb?code=XZga1e5ZW6fy1cJnnxFl9rAoxsCryblnF1ok&linkpassword=&size=1440x750&crop=0&type=auto
 ",
     "episodes": {
       "ep1": "BAACAgUAAyEFAASt-BpTAAIFwWjRHqTPSLaICkztzGhZnN5aemkiAAIKAgAChOooVEv7yaLVh_6sNgQ",
