@@ -22,6 +22,20 @@
       "ep8": "BAACAgQAAxkBAAPPaMNeH5ZX5tUgb0hlSsSOi4a3KXwAAjshAAKCuDlTVcgRYiBVXYY2BA"
       }
   },
+  
+ "weak_hero_season2": {
+    "poster": "https://i.pinimg.com/736x/de/6f/97/de6f9758b06f7228c09192492acda947.jpg",
+    "episodes": {
+      "ep1": "BAACAgUAAxkBAAICTGj6X-Di3baATKo_Kq7L7nBRHrSJAAL6FAACX5VgVOfXhYmw1Q5HNgQ",
+      "ep2": "BAACAgEAAxkBAAICTWj6X-D0j6O41J7DDUnA0WXrs6C_AAL6BQACMa9hRFtpzWKRdggJNgQ",
+      "ep3": "BAACAgUAAxkBAAICTmj6X-BFtuMyqqoQvshimpV40XI7AAL_FAACX5VgVKrjOJa0oVqcNgQ",
+      "ep4": "BAACAgEAAxkBAAICT2j6X-AoxFtugwHo8IDXTdvFajPZAAIhBwACMa9hRKKrXa9YsaJfNgQ",
+      "ep5": "BAACAgUAAxkBAAICUGj6X-CbVBT7fU91qflzGs-RHwVAAAJkFQACX5VgVGbN6lyv6bykNgQ",
+      "ep6": "BAACAgUAAxkBAAICUWj6X-AR91Y8kxF_6DmV8CctJQtiAAJnFQACX5VgVBC8WSeR4kSPNgQ",
+      "ep7": "BAACAgUAAxkBAAICUmj6X-BLF39-N0WHn1bFKLsH5riJAAJoFQACX5VgVNeG_Fi8p9YvNgQ",
+      "ep8": "BAACAgUAAxkBAAICU2j6X-AnBGO6Zg2-REofcCjbS6zeAAJrFQACX5VgVLx78b2Rk4zbNgQ"
+      }
+  },
   "loki": {
     "poster": "https://i.pinimg.com/736x/68/19/09/68190915e2873f0d48176845eb42c07f.jpg",
     "episodes": {
