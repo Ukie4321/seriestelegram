@@ -70,6 +70,83 @@
       "ep6": "BAACAgEAAxkBAAICfWj6r1g14UImNRmaFJ3BYKXOuLZJAAKoBAACy6dQRq8SC8TNx-ZINgQ"
       }
   },
+  
+ "money_heist_season1": {
+    "poster": "https://i.pinimg.com/736x/7e/4a/b9/7e4ab95ffa7110e9d8ad53ba0b6c4d2e.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIChWj64r1KqRILqaRGLfPALQVQLpeWAAIOBAACjQKpR5qjZXu0Sph3NgQ",
+      "ep2": "BAACAgEAAxkBAAIChmj64r3b-CBHNIiusIR015abilyoAAINBAACjQKpR_OFpoyRbYsQNgQ",
+      "ep3": "BAACAgEAAxkBAAICh2j64r0y8inX_MAlNnYz1ice3DyfAAITBAACjQKpRzfuxMSYwmvaNgQ",
+      "ep4": "BAACAgEAAxkBAAICiGj64r2B0srG8Wc76Y6buL2o7JdwAAIQBAACjQKpR8Hxuim1skA1NgQ",
+      "ep5": "BAACAgEAAxkBAAICiWj64r34rKMKVYZT04lusiEIQi8IAAIRBAACjQKpRwAByyWXZNPloDYE",
+      "ep6": "BAACAgEAAxkBAAICimj64r1CsrWflMys0ZQrgFq3U0iKAAIPBAACjQKpR3NOfFt-S8qpNgQ",
+      "ep7": "BAACAgEAAxkBAAICi2j64r0OEh4TLGHn2WpTRY0ea6jCAAIVBAACjQKpRzB-XguqDEJWNgQ",
+       "ep8": "BAACAgEAAxkBAAICjGj64r2_devmQbWoeUyeeGB8SLp_AAIUBAACjQKpRyHaTPLOtp_5NgQ",
+      "ep9": "BAACAgEAAxkBAAICjWj64r3TkZGGMEkKxffOdy57EZqMAAISBAACjQKpR3Lyr0lm1f7_NgQ",
+      "ep10": "BAACAgEAAxkBAAICjmj64r07IM5IwrfT3wbFXwwpTfqnAAIYBAACjQKpR_NA6SDb_rLPNgQ",
+      "ep11": "BAACAgEAAxkBAAICj2j64r2ltT6SvwyHvHFbDkz0tXC0AAIWBAACjQKpR6yrRzg1BzMcNgQ",
+      "ep12": "BAACAgEAAxkBAAICkGj64r2QPGMy4W-jN0lzgZQdmAU9AAIZBAACjQKpR89HL--BuuuHNgQ",
+      "ep13": "BAACAgEAAxkBAAICkWj64r3hURUAAeFfBu2rHYJ65EEJ6AACGgQAAo0CqUdUZ_Y1kLG8AAE2BA"
+      }
+  },
+  
+ "money_heist_season2": {
+    "poster": "https://i.pinimg.com/736x/2d/79/6d/2d796d69b872ea94c3282b92ec5745ee.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAICn2j65QWuIc_RM8GPpD35ArDo43wkAAJeBAACjQKpRy3rkDlOktacNgQ",
+      "ep2": "BAACAgEAAxkBAAICoGj65QV7x__svAMhAaDHfiHMwQh9AAKsBAADQbBH9-Ai-R9hK482BA",
+      "ep3": "BAACAgEAAxkBAAICoWj65QVfhg5vmOFG9cpCAasnONytAAJfBAACjQKpR1XYVIvHi1MuNgQ",
+      "ep4": "BAACAgEAAxkBAAIComj65QUobavjMaJY5lJ9-WBK_pDkAAKuBAADQbBHKvUgmSYaQD02BA",
+      "ep5": "BAACAgEAAxkBAAICo2j65QVK-5iHWZbYKacPNCnyXBWpAAKtBAADQbBH-J0NBnbCEyk2BA",
+      "ep6": "BAACAgEAAxkBAAICpGj65QUtkkkwZk6TIgjuh2tGEFNWAAJhBAACjQKpR5_7ufpIOZ8_NgQ",
+      "ep7": "BAACAgEAAxkBAAICpWj65QVNpT4UbN6tYD1lhm-7iaoSAAJgBAACjQKpR8Ms9CPx_W30NgQ",
+       "ep8": "BAACAgEAAxkBAAICpmj65QVFRhPii03nE9yx2KosWyRZAAJiBAACjQKpRxpDjR8yGkVbNgQ",
+      "ep9": "BAACAgEAAxkBAAICp2j65QUJzg4Ll7-rf0dV_qgV6kvAAAJjBAACjQKpR94yi1NsW4-BNgQ"
+    }
+  },
+  "money_heist_season3": {
+    "poster": "https://i.pinimg.com/736x/43/4c/02/434c0207317a20923b5fb0a83d9ec72c.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAICsWj65lxt8h6Y6o9n1IFg8iZatNMqAALlBAADQbBH7M2I_tWAf742BA",
+      "ep2": "BAACAgEAAxkBAAICsmj65lyeXm6Ybm0kDIo1ov5kA37NAALuBAADQbBHL4_cPZK_P1w2BA",
+      "ep3": "BAACAgEAAxkBAAICs2j65lyno0g4wl2sYOtzeCkgiFxaAALsBAADQbBHUp8ZK99vh4U2BA",
+      "ep4": "BAACAgEAAxkBAAICtGj65lzPUkmSX6EBbiy_-aYnPWBqAALqBAADQbBHAwABzDStaRJENgQ",
+      "ep5": "BAACAgEAAxkBAAICtWj65lzGMJlMu-QU5ifWJ0tJpgEyAALtBAADQbBH48w9gEz6lL82BA",
+      "ep6": "BAACAgEAAxkBAAICtmj65ly6O3-DEsL5QEn4QbW7h59CAALrBAADQbBHN5kiPrwB-ic2BA",
+      "ep7": "BAACAgEAAxkBAAICt2j65lwrDkLqvXxAykF0TxqzGLRMAALvBAADQbBHkYzJ731_5kM2BA",
+      "ep8": "BAACAgEAAxkBAAICuGj65lxQptuk1FaIW3bdGDJiGAHeAALwBAADQbBH-9aDGuupm2A2BA"
+    }
+  },
+  
+  "money_heist_season4": {
+    "poster": "https://i.pinimg.com/736x/9a/23/73/9a2373870e4cc520d5d29a0d43d1bce0.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAICwWj655et0W0mcGVtwUmq85pGZv4FAAL9BAADQbBH-4s_KmoYlzk2BA",
+      "ep2": "BAACAgEAAxkBAAICwmj655ePcokf9_okRJZ5YGbNJyYLAAL-BAADQbBHYkBuyA7E_Vw2BA",
+      "ep3": "BAACAgEAAxkBAAICw2j655fkggek0vkeSEBmy79l6GQZAAL_BAADQbBHZFdVK8GMVuc2BA",
+      "ep4": "BAACAgEAAxkBAAICxGj655fwE4kGcZYKBPuSG5-vLcIGAAICBQADQbBHDX7ORroUEFQ2BA",
+      "ep5": "BAACAgEAAxkBAAICxWj655dk0JKqsCMHx8pZqaggs2LNAAMFAANBsEemvsgr20inMTYE",
+      "ep6": "BAACAgEAAxkBAAICxmj655cLAoE3af7s6dtoS4_XrpXqAAIBBQADQbBHNEfzuYp_Z5Q2BA",
+      "ep7": "BAACAgEAAxkBAAICx2j655drlbw_dUteKTPghkSgsus_AAIDBQADQbBHcWKmsSTUCno2BA",
+      "ep8": "BAACAgEAAxkBAAICyGj655ejG9DRNimji7JshksrQQeMAAIEBQADQbBHHM8HUjRynjE2BA"
+    }
+  },
+  
+  "money_heist_season5": {
+    "poster": "https://i.pinimg.com/736x/b8/f7/4a/b8f74aec50255eced95cb2c35215daf3.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIC0Wj66KDILzsVze62K-gAAfkUCTNV4AACDwUAAgry-UYiQkeX282rbjYE",
+      "ep2": "BAACAgEAAxkBAAIC0mj66KA-wQpqpj42lQj3H9g-PkeQAAIHBQADQbBHrXwdgdeTpgM2BA",
+      "ep3": "BAACAgEAAxkBAAIC02j66KAMMiHsN5XnXeRXwzmNOe-iAAIFBQADQbBHElmWBP7ifPo2BA",
+      "ep4": "BAACAgEAAxkBAAIC1Gj66KAi5RI5WSY8L-u2YyLNhZcHAAINBQADQbBHV-cNyUGdcOU2BA",
+      "ep5": "BAACAgEAAxkBAAIC1Wj66KD7KCiYI0sMsJkIRY05PKpoAAIMBQADQbBHiCW723NgOH02BA",
+      "ep6": "BAACAgEAAxkBAAIC1mj66KAnIPUE2ocb43E9pguTslR4AAIJBQADQbBH0WBGMfJzpFE2BA",
+      "ep7": "BAACAgEAAxkBAAIC12j66KByN0nCsmOby5ZFq-hdq1quAAIGBQADQbBHRyc27tj7og42BA",
+      "ep8": "BAACAgEAAxkBAAIC2Gj66KDzzf0mKbg7MEL4Hzw2KXZ8AAIIBQADQbBHLfrJafjpfMI2BA",
+      "ep9": "BAACAgEAAxkBAAIC2Wj66KC8-lrqtBw62OrWfzkcAAGm2QACCwUAA0GwR1YKE8mlY7FUNgQ",
+      "ep10": "BAACAgEAAxkBAAIC2mj66KBTMXsmI8ZO6ZG_LeQFHEPpAAIKBQADQbBH7MpwwdSgrM02BA"
+    }
+  },
   "loki": {
     "poster": "https://i.pinimg.com/736x/68/19/09/68190915e2873f0d48176845eb42c07f.jpg",
     "episodes": {
