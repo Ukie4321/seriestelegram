@@ -1,12 +1,19 @@
 {
   "kaiju_no_8": {
-    "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=1200,height=675/catalog/crunchyroll/c2257c075677c3bfe0d66b46411529fb.jpg",
+    "poster": "https://i.pinimg.com/736x/af/5f/27/af5f2744e3a7fea5269aa03c4131e939.jpg",
     "episodes": {
       "ep1": "BAACAgEAAxkBAAMGaMJqf2v1TCJP-IrHSH5uBctzse8AAmIGAAIBVKBEAUo9YIHEgyk2BA",
       "ep2": "BAACAgEAAxkBAAMHaMJqf7doNURpF25OdbFXrbKIbhIAAq8FAAJcanFF-PTdY4QhpTo2BA",
       "ep3": "BAACAgEAAxkBAAMIaMJqf2RcGC0alKI0L5SDJ6SOlFsAArUFAAJcanFFpSvo0S18RJA2BA",
       "ep4": "BAACAgEAAxkBAAMJaMJqf2rbNvVIqPfpVLoXYq0ZwDYAArIFAAJcanFFYMR_8OHO4wQ2BA",
-      "ep5": "BAACAgEAAxkBAAMKaMJqfxJjGahf7fBa4AeuXfdY7LwAArMFAAJcanFF0pPnB_Eg_pQ2BA"
+      "ep5": "BAACAgEAAxkBAAMKaMJqfxJjGahf7fBa4AeuXfdY7LwAArMFAAJcanFF0pPnB_Eg_pQ2BA",
+       "ep6": "BAACAgQAAxkBAAIGVWkEE50bdhR0dzeTjmiXMqy17hk7AAK-HQACunAAAVNNzsbPFyxSBzYE",
+      "ep7": "BAACAgQAAxkBAAIGVmkEE50Ik1GrIaPCfcGMBww5JePkAALBHQACunAAAVN0iCTQGv97UzYE",
+      "ep8": "BAACAgQAAxkBAAIGV2kEE50XbOseWgABf27GBN9TD-W_mwACwh0AArpwAAFTiOvylaeSCr82BA",
+      "ep9": "BAACAgQAAxkBAAIGWGkEE53kkSRwRJjOLV2cS-oHKiQsAALDHQACunAAAVO-9TcSXsfKMTYE",
+      "ep10": "BAACAgQAAxkBAAIGWWkEE50D38gykKwugPEQ-uamajJUAALKHQACunAAAVMVB-m7-08qwDYE",
+      "ep11": "BAACAgQAAxkBAAIGWmkEE52sQwkqkwghoq4ufKx_UrHaAALTHQACunAAAVPovchdUhFTZjYE",
+      "ep12": "BAACAgQAAxkBAAIGW2kEE53l-fh5Q8EbaogAASW6vkycgQAC3B0AArpwAAFTXJocZt_umV02BA"
     }
   },
     "weak_hero_season1": {
