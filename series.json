@@ -17,6 +17,20 @@
     }
   },
   
+  "tira": {
+    "poster": "https://i.pinimg.com/736x/63/27/01/632701f9e42f898d84ea45f39c170442.jpg",
+    "episodes": {
+      "ep1": "BAACAgUAAxkBAAIFwWj7Su6ufQABNsSDZnOKsumZOVU3XQAC3AwAAsaUcVS1k3W21c2svjYE",
+      "ep2": "BAACAgUAAxkBAAIFwmj7Su6pXqGsmooyYgK6ofMQxvbNAALgDAACxpRxVOz4gew3WjMNNgQ",
+      "ep3": "BAACAgQAAxkBAAIFw2j7Su5SC9oWdyapSGxVYlBN4pqHAAJgDwACM_HwUITHYN4CI0TFNgQ",
+      "ep4": "BAACAgQAAxkBAAIFxGj7Su6OeOwk5nS96ye7Reen9rqJAAJhDwACM_HwUPP7BfU3bye2NgQ",
+      "ep5": "BAACAgQAAxkBAAIFxWj7Su5VWBxzkXGwaflaGj4IaYgVAAJdEQACtsAZUXB4lhV4tOXfNgQ",
+      "ep6": "BAACAgEAAxkBAAIFxmj7Su5_Eiqmc7gD-aTaa3_DHoKHAAIuBAACI2toRawBgBWkTVraNgQ",
+      "ep7": "BAACAgQAAxkBAAIFx2j7Su4oaoWpEJ2kLP8Si0LuPFtNAALzHwACCscIUq3U2f3wdhG4NgQ",
+      "ep8": "BAACAgQAAxkBAAIFyGj7Su48V3gxt6m0Cq-PywF5j1O8AAL3HwACCscIUpx00ctqvC3JNgQ"
+    }
+  },
+  
   "demon_slayer_kimetsu_no_yaiba": {
     "poster": "https://i.pinimg.com/736x/e3/cc/c2/e3ccc2703846b77f6ad77d88e2e92b6a.jpg",
     "episodes": {
