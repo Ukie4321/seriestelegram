@@ -16,6 +16,63 @@
       "ep12": "BAACAgQAAxkBAAIGW2kEE53l-fh5Q8EbaogAASW6vkycgQAC3B0AArpwAAFTXJocZt_umV02BA"
     }
   },
+
+  
+  "dora_the_explorer": {
+    "poster": "https://i.pinimg.com/736x/e3/49/2d/e3492dc0cb491337bede9e39ad0ea213.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIF-Wj7S30uNPKfuLw6mUmosjKwufpMAAKFBgACSQnJRBfG039i0frqNgQ",
+      "ep2": "BAACAgEAAxkBAAIF-mj7S32Hmxyxb_m4-iD9vlUQeP2xAAIEBgACEzIpRTauXenYjfzyNgQ",
+      "ep3": "BAACAgEAAxkBAAIF-2j7S33NNTVLkiuovq4YUTqsgzoZAAJGBgACEzIpRRrkPv3LiA6HNgQ",
+      "ep4": "BAACAgEAAxkBAAIF_Gj7S31qWndSsf9WMEemIDGxMYvmAAJpBgACEzIpRYgp6Y_HwdDXNgQ",
+      "ep5": "BAACAgEAAxkBAAIF_Wj7S33OWxdAbiFNjPH2kW3oMjGVAAJoBgACEzIpRRB1fvfeYE5iNgQ",
+      "ep6": "BAACAgEAAxkBAAIF_mj7S32NbT0a9jz0onEt5pdZjpETAAKtBgACEzIpRdOcjfzDAAHtLTYE",
+      "ep7": "BAACAgEAAxkBAAIF_2j7S33FHSyWPi1InRmSgKtGL-chAAKwBgACEzIpRaJk2VSp4XCjNgQ",
+      "ep8": "BAACAgEAAxkBAAIGAAFo-0t9FpX4JuxvDawlMz2yPdUG0gACuQYAAhMyKUWVBpZ-guM3zjYE",
+      "ep9": "BAACAgEAAxkBAAIGAWj7S33Wo87AfsXQ-IdXDZLSxB4fAAK6BgACEzIpRVvcFVWzzO6oNgQ",
+      "ep10": "BAACAgEAAxkBAAIGAmj7S32HhawkI9Tcrjh4qLkMHeJHAAK7BgACEzIpRa-8BYVhQaRyNgQ",
+      "ep11": "BAACAgEAAxkBAAIGA2j7S30NzJDMEZFRnM67-_2RloltAAK8BgACEzIpRXjyZmM1T5HgNgQ",
+      "ep12": "BAACAgEAAxkBAAIGBGj7S31MquHfY8n8qbzk67ffDLWgAALFBgACEzIpRXwJa91FKZOpNgQ",
+      "ep13": "BAACAgEAAxkBAAIGBWj7S33MheRhb-9oKzAIPaGn3i1PAALGBgACEzIpRdyjFEsyZIckNgQ"
+    }
+  },
+  
+  
+  "the_legend_of_the_blue_sea": {
+    "poster": "https://i.pinimg.com/736x/dd/b9/2b/ddb92b1c93d328b928e1c680f085de2e.jpg",
+    "episodes": {
+      "ep1": "BAACAgUAAxkBAAIF0Wj7S0A9_7-seL6pGcot7yr7Gra-AAL5BAACSrzBVhLVG2z_cZApNgQ",
+      "ep2": "BAACAgUAAxkBAAIF0mj7S0A1shs1CvOVoKizGwABMNxq-gAC_wQAAkq8wVZ12fXxVegQYTYE",
+      "ep3": "BAACAgUAAxkBAAIF02j7S0ArcksBouc2d51-ZOHdWl5cAAMFAAJKvMFW_m4AAdU4-pSXNgQ",
+      "ep4": "BAACAgUAAxkBAAIF1Gj7S0Ac-xuw-eTRTWEEls97_djFAAI-BAACSrzJVjHPKdTxJaGNNgQ",
+      "ep5": "BAACAgUAAxkBAAIF1Wj7S0BDnHHr1eTIwpO7XUrpPebzAAJABAACSrzJVtmKyTCrMYChNgQ",
+      "ep6": "BAACAgUAAxkBAAIF1mj7S0BoCgTmyYE2Bl5T1zaNWCdiAAJDBAACSrzJVj-fkRBUit7pNgQ",
+      "ep7": "BAACAgUAAxkBAAIF12j7S0DdbMypTlvTI4vco-GZgogFAAJKBAACSrzJVuPSEwctBbh2NgQ",
+      "ep8": "BAACAgUAAxkBAAIF2Gj7S0AdcSw0siXHP-rrppsTHGg2AAJLBAACSrzJVvJKIHRpNYjFNgQ",
+      "ep9": "BAACAgUAAxkBAAIF2Wj7S0Az-4y0VVR42kHRmPjxsGnpAAJNBAACSrzJVjGQuRZdO0l1NgQ",
+      "ep10": "BAACAgUAAxkBAAIF2mj7S0ChvUdZfAABzNhGzOLxKxyN7AACTgQAAkq8yVZ7nRpIoTTTpjYE",
+      "ep11": "BAACAgUAAxkBAAIF22j7S0C2xsjNIV2TX8pZ8boPEf0mAAJPBAACSrzJVkmwbl7OoSwnNgQ",
+      "ep12": "BAACAgUAAxkBAAIF3Gj7S0A_HmKnke24oaIDxN2cQrLfAAJQBAACSrzJVrFTDtSfbfjhNgQ",
+      "ep13": "BAACAgUAAxkBAAIF3Wj7S0B1HG64qHgSxnwBWCnbJk8kAAJRBAACSrzJVrKD9ygJfvfgNgQ",
+      "ep14": "BAACAgUAAxkBAAIF3mj7S0C_WvP8BbgVRl4aJ8VbXOqoAAJTBAACSrzJVq90qL6xDnxSNgQ",
+      "ep15": "BAACAgUAAxkBAAIF32j7S0AKl-SGbb2lgH9nxU2caab-AAJUBAACSrzJVna5O1-G4eYoNgQ",
+      "ep16": "BAACAgUAAxkBAAIF4Gj7S0Bj4GN1MTbcaP_NCKrO47nsAALhAwACU6XJVje-IbPtiHU0NgQ",
+      "ep17": "BAACAgUAAxkBAAIF4mj7S0CQncG0f-KydGII_755lvCfAALoAwACU6XJVjpOTwMf_mUYNgQ",
+      "ep18": "BAACAgUAAxkBAAIF4mj7S0CQncG0f-KydGII_755lvCfAALoAwACU6XJVjpOTwMf_mUYNgQ",
+      "ep19": "BAACAgUAAxkBAAIF42j7S0Aemmekd2pCwobO7jxb3eI7AALsAwACU6XJVmB7X04lAamGNgQ",
+      "ep20": "BAACAgUAAxkBAAIF5Gj7S0CiHXmd-EKJL-HntL9ctngEAALuAwACU6XJVkD91quwqcujNgQ"
+          }
+  },
+  
+  "dream_productions": {
+    "poster": "https://i.pinimg.com/736x/0a/8f/bd/0a8fbdd96b1bc9eadd242efa9de29755.jpg",
+    "episodes": {
+      "episode1_team_mimpi": "BAACAgQAAxkBAAIGE2j7TAIkLDg6pl81ba5fvmHycVodAALbGAACDb7QUlwchYvdenYvNgQ",
+      "episode2_keluar_dari_tubuh": "BAACAgQAAxkBAAIGFGj7TAKw0eugxWwPvNWD7nEJzhfCAALcGAACDb7QUghdwOQ9J1F8NgQ",
+      "episode3_romantisme": "BAACAgQAAxkBAAIGFWj7TAI3kb4MPlIvlDb62Q_0nKalAALhGAACDb7QUtxzN8b89J0zNgQ",
+      "episode4_malam_yang_tak_terlupakan": "BAACAgQAAxkBAAIGFmj7TAJNpJ8bU88xu0ep5XyoOmtZAALlGAACDb7QUiUk9eEj-a92NgQ"
+          }
+  },
   
   "tira": {
     "poster": "https://i.pinimg.com/736x/63/27/01/632701f9e42f898d84ea45f39c170442.jpg",
