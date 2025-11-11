@@ -18,6 +18,21 @@
   },
 
   
+  "cyberpunk_edgerunners_season1": {
+    "poster": "https://i.pinimg.com/736x/83/2f/c5/832fc555b7431ec58ac44a04cdf97f13.jpg",
+    "episodes": {
+      "ep1": "BAACAgQAAxkBAAIFnWj7SqJl5rxpgZGtRg178s9JyQMbAAKMEwACMvfRUuH4yiLNFwefNgQ",
+      "ep2": "BAACAgQAAxkBAAIFnmj7SqJn8sIkWEhD-fspSE6S1MBZAAKYEwACMvfRUvdC8Dbc0zAzNgQ",
+      "ep3": "BAACAgQAAxkBAAIFn2j7SqL4OiIbDlGX3SsxHwqnAS28AAKbEwACMvfRUosj4scnSvoKNgQ",
+      "ep4": "BAACAgQAAxkBAAIFoGj7SqJVqE1II8wAAc8zG9dViSfolgACoBMAAjL30VKtny0XM0DtljYE",
+      "ep5": "BAACAgQAAxkBAAIFoWj7SqI2YO3W7fLshP1lpfJOssusAAKlEwACMvfRUrNiqZP_qAjgNgQ",
+      "ep6": "BAACAgQAAxkBAAIFomj7SqJEcfP0u4WCCttTJOry_QvQAAKsEwACMvfRUuYplpewVpdiNgQ",
+      "ep7": "BAACAgQAAxkBAAIFo2j7SqLhljxAHeWtfEt7d56xpvxLAAKwEwACMvfRUn7-GYUhLZ8NNgQ",
+      "ep8": "BAACAgQAAxkBAAIFpGj7SqJrY7RDUBVrbPL_CBtlYY9zAAL7EwACMvfRUk6zBcqm6CZqNgQ",
+      "ep89: "BAACAgQAAxkBAAIFpWj7SqIciCOkrtUDqSByIXlC95LMAAICFAACMvfRUqH0hBz_pVUYNgQ",
+      "ep10": "BAACAgQAAxkBAAIFpmj7SqIh-qa1PYeEM-4geTU4y_G5AAIPFAACMvfRUi__tU937WVPNgQ"
+          }
+  },
   "main_api": {
     "poster": "https://i.pinimg.com/736x/3f/1e/dc/3f1edcf3ee188b78d1ce3e5298db0ac6.jpg",
     "episodes": {
