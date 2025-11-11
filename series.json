@@ -18,6 +18,21 @@
   },
 
   
+  "the_sexy_doctor_is_mine_season2": {
+    "poster": "https://i.pinimg.com/736x/db/cb/f7/dbcbf749f178c0f294cf5ff531376557.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIFsWj7StFxF1QfO25yUTGIcMH_0ubjAAIsGwACSYQ5RTLW-5MxpOM1NgQ",
+      "ep2": "BAACAgEAAxkBAAIFsmj7StGquTddd1638vzPH_KJSBx6AAJuBgACSYRBRUmPwH2t2AEoNgQ",
+      "ep3": "BAACAgEAAxkBAAIFs2j7StGZ8idpNDExb417W8wptJZqAAIrAwACWiVARRkwhwtZp_xNNgQ",
+      "ep4": "BAACAgEAAxkBAAIFtGj7StG2CMqzmqE1Umt8z9_i528_AALABgACSYRBReT1FuWFoXdgNgQ",
+      "ep5": "BAACAgEAAxkBAAIFtWj7StG9dEOvRw5DaNHSEeySmAQcAALnBgACSYRBRQqf_qTn1pZRNgQ",
+      "ep6": "BAACAgEAAxkBAAIFtmj7StHjwtO43aelXOcaXQIWQinoAAIGBwACSYRBRRdASHqdnmsWNgQ",
+      "ep7": "BAACAgEAAxkBAAIFt2j7StECcMRQSQHRdMz5Ier5nBvYAAIHBwACSYRBRSASk0xnxO7dNgQ",
+      "ep8": "BAACAgEAAxkBAAIFuGj7StFKmdntrWq-NWSXso0AARcFJgACFAcAAkmEQUVCbwJpZZff5TYE"
+
+          }
+  },
+  
   "cyberpunk_edgerunners_season1": {
     "poster": "https://i.pinimg.com/736x/83/2f/c5/832fc555b7431ec58ac44a04cdf97f13.jpg",
     "episodes": {
