@@ -52,6 +52,22 @@
   },
 
   
+  "induk_gajah_season1": {
+    "poster": "https://i.pinimg.com/736x/43/70/20/43702096dc62305bfa524f0bc492feef.jpg",
+    "episodes": {
+      "ep1": "BAACAgUAAxkBAAIG6mkVGsDM-WZzXavhmi-CK-ngcY-sAAKLCQAC0EOhVpeHzGgc9v9dNgQ",
+      "ep2": "BAACAgUAAxkBAAIG62kVGsCNYiqs5-t392bj4Lk3qowIAAKMCQAC0EOhVsoXlpx9JGeZNgQ",
+      "ep3": "BAACAgUAAxkBAAIG7GkVGsCtQ2158SifjYOlNXKbTbTDAAKNCQAC0EOhVhB27FBxEJjvNgQ",
+      "ep4": "BAACAgUAAxkBAAIG7WkVGsBw3H3Xfr3w7nwFomj-rvM9AAKOCQAC0EOhVraA35Rm-PWENgQ",
+      "ep5": "BAACAgUAAxkBAAIG7mkVGsDFfYsby_0U6bz-nJD6PmR5AAKPCQAC0EOhVvKqWXOSsyNHNgQ",
+      "ep6": "BAACAgUAAxkBAAIG72kVGsDKD48DitZxV_W1IEbuNL6kAAKQCQAC0EOhVoAjintOiBcENgQ",
+      "ep7": "BAACAgUAAxkBAAIG8GkVGsCowNYXxXujK9lpLSK-9Ma8AAKRCQAC0EOhVkrGpibUY_8lNgQ",
+      "ep8": "BAACAgUAAxkBAAIG8WkVGsDLV1rY_lEyaRL7d8kxPLNXAAKSCQAC0EOhVkCwDs04ecDlNgQ","
+
+     
+          }
+  },
+  
   "induk_gajah_season2": {
     "poster": "https://i.pinimg.com/736x/85/ba/4c/85ba4cf694803e6b5b6212193bd1182d.jpg",
     "episodes": {
