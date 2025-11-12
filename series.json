@@ -18,6 +18,20 @@
   },
 
   
+  "open_bo": {
+    "poster": "https://i.pinimg.com/736x/92/d9/ce/92d9ce0450c4dca1a1f4afe84eb13f94.jpg",
+    "episodes": {
+      "ep1": "BAACAgQAAxkBAAIGomkT5AEyxNk5fZIAAcJiXtxVDXUJLQACnQ8AAp45yFBIyLubaMDSCDYE",
+      "ep2": "BAACAgQAAxkBAAIGo2kT5AE90wTGiDwdwDLbs-I0y7mDAAKfDwACnjnIUGGRbnJXoVtANgQ",
+      "ep3": "BAACAgQAAxkBAAIGpGkT5AFun0_VKuiSRlkcAT1fPnTSAAKgDwACnjnIUP9AviwC5q52NgQ",
+      "ep4": "BAACAgQAAxkBAAIGpWkT5AHHQdW54bBuKbFI4muusqymAAKhDwACnjnIULKW3aEtnH5XNgQ",
+      "ep5": "BAACAgQAAxkBAAIGpmkT5AHoSxoqFRi4JeA1ux3OkS0XAAKiDwACnjnIUI9_lXnhoaIeNgQ",
+      "ep6": "BAACAgQAAxkBAAIGp2kT5AGvdHUM1bQTiNn0c21I6KREAAKkDwACnjnIUAvBbTjXqGauNgQ",
+      "ep7": "BAACAgQAAxkBAAIGqGkT5AF2h_iX6UFDjf5plpGuxwv6AAKnDwACnjnIUPX5TS-OOJ4KNgQ",
+      "ep8": "BAACAgQAAxkBAAIGqWkT5AEBoinSuLWDeEu_UWeKBp9EAAKoDwACnjnIUPT11_xdMEsSNgQ"
+     
+          }
+  },
   "w:_two_worlds": {
     "poster": "https://i.pinimg.com/736x/23/24/72/23247210e1227997034b8538a5d99438.jpg",
     "episodes": {
