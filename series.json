@@ -18,6 +18,22 @@
   },
 
   
+  "sonic_prime_season1": {
+    "poster": "https://i.pinimg.com/736x/34/c9/fb/34c9fb447da7281c424da11540804949.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIFWWj7SkBW4M6rSsSvmfI-dqJLfycpAAJLBQAC_8UIR6YNJzBLQ-95NgQ",
+      "ep2": "BAACAgEAAxkBAAIFWmj7SkCnIut5zVVn2RMI6muG3YuyAAJKBQAC_8UIR0XSTnnX04WSNgQ",
+      "ep3": "BAACAgEAAxkBAAIFW2j7SkCPH7qiRHtEBFEqTG8gB7EJAAJbBQAC_8UIR0C66LP3C9hYNgQ",
+      "ep4":BAACAgEAAxkBAAIFXGj7SkCevRnBcKdPKMlAhvQmIW-iAAJHBQAC_8UIR475fOWSISCUNgQ",
+      "ep5": "BAACAgEAAxkBAAIFXWj7SkAcxGHHtCcaR3jlcObKv_mwAAJGBQAC_8UIRzjvloUsumiHNgQ",
+      "ep6": "BAACAgEAAxkBAAIFXmj7SkAG-01yHL8RjZce--E92kNEAAJIBQAC_8UIR_mdyOLA2pR0NgQ",
+      "ep7": "BAACAgEAAxkBAAIFX2j7SkAfBUdpWkzqkjg1IfOeumpFAAJJBQAC_8UIRx9KQNdpqZa2NgQ",
+      "ep8": "BAACAgEAAxkBAAIFYGj7SkB5PpY6PgF6fcgOE-oSKrmrAAJYBQAC_8UIR0rN8fGnbunLNgQ"
+   
+     
+          }
+  },
+  
   "my_dad_the_bounty_hunter_season1": {
     "poster": "https://i.pinimg.com/736x/d4/ae/2e/d4ae2e2c322e6df212812dbd7c0ce1a8.jpg",
     "episodes": {
