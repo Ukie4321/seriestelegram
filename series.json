@@ -18,6 +18,22 @@
   },
 
   
+  "induk_gajah_season2": {
+    "poster": "https://i.pinimg.com/736x/85/ba/4c/85ba4cf694803e6b5b6212193bd1182d.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIEoWj7SUObu8D2w0WAA_YHj7ZfWEkwAAL4AwACNhdARlxlNHI0cnprNgQ",
+      "ep2": "BAACAgEAAxkBAAIEomj7SUM92kdVpKtEwzVRbP5m_P-XAAL5AwACNhdARvnSOc9a6MCINgQ",
+      "ep3": "BAACAgEAAxkBAAIEo2j7SUOFW7ZH5Fha1SUNc4ge8S10AAL6AwACNhdARu9kGh0RIOgCNgQ",
+      "ep4": "BAACAgEAAxkBAAIEpGj7SUOcZIElAdHTTsNPXeEd5244AAL7AwACNhdARvYuCTO3WnAiNgQ",
+      "ep5": "BAACAgEAAxkBAAIEpWj7SUMBLFJLToCSPWDn9X5Xe0pYAAL8AwACNhdARn7z1sBbt6jpNgQ",
+      "ep6": "BAACAgEAAxkBAAIEpmj7SUMkjOQZj7Fi7FZpjcAYwOGKAAL9AwACNhdARlaXYPQ3OERzNgQ",
+      "ep7": "BAACAgEAAxkBAAIEp2j7SUMyBIO31OW4mzDm1fsZaNPMAAL-AwACNhdARlZNW3_AOgkHNgQ",
+      "ep8": "BAACAgEAAxkBAAIEqGj7SUOYMXHMn_vMREfl_-1rFb28AAL_AwACNhdARlvYQM2Y4cBUNgQ"
+   
+     
+          }
+  },
+  
   "terminator_zero": {
     "poster": "https://i.pinimg.com/736x/4b/f6/a0/4bf6a09f7d21383a1c2e810e44b776bc.jpg",
     "episodes": {
