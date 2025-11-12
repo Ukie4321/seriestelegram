@@ -34,6 +34,24 @@
      
           }
   },
+
+
+  "my_dad_the_bounty_hunter_season2": {
+    "poster": "https://i.pinimg.com/736x/6e/d3/a5/6ed3a5000afa76e8a7ba9207c254331d.jpg",
+    "episodes": {
+      "ep1": "BAACAgQAAxkBAAIFjWj7SomAT218jSA0N6CCwOYyGodGAAL4GAACMvfJUhtgkK1gfbTFNgQ",
+      "ep2": "BAACAgQAAxkBAAIFjmj7Somyfp0s3x9LEWqxTbTGd2M6AAL-GAACMvfJUlYRopiIfiu5NgQ",
+      "ep3": "BAACAgQAAxkBAAIFj2j7SomTLhIITpGX_WzeguwOjcWEAAICGQACMvfJUl9zR1W7sM7TNgQ",
+      "ep4": "BAACAgQAAxkBAAIFkGj7Song9o0xXY7jtBTtDVIAAbuRMwACBxkAAjL3yVJO-D_8RpmJPDYE",
+      "ep5": "BAACAgQAAxkBAAIFkWj7SondKEwsTMryaeHscGjAh-T7AAIMGQACMvfJUppoE4PSXq40NgQ",
+      "ep6": "BAACAgQAAxkBAAIFkmj7SokGpphycXK9TdwvSppiMMEoAAIOGQACMvfJUq5T4FlaNJrjNgQ",
+      "ep7": "BAACAgQAAxkBAAIFk2j7SonusA7s9s8vbO2Sn390x5wQAAIUGQACMvfJUst19JqtnWPENgQ",
+      "ep8": "BAACAgQAAxkBAAIFlGj7SolRPHB27w8evxZNBOvh2_0JAAIdGQACMvfJUrofRli2qsZwNgQ"
+   
+     
+          }
+  },
+  
   "open_bo": {
     "poster": "https://i.pinimg.com/736x/92/d9/ce/92d9ce0450c4dca1a1f4afe84eb13f94.jpg",
     "episodes": {
