@@ -18,6 +18,22 @@
   },
 
   
+  "blue_eye_samurai": {
+    "poster": "https://i.pinimg.com/736x/1b/76/82/1b76828dfbc1ae32284120e375ea403f.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIFEWj7SdlYnizkKqxijV-3apkxxZoWAAKzAwACFhb5Rg5n38v7K9EtNgQ",
+      "ep2": "BAACAgEAAxkBAAIFEmj7SdmyA-uJm6xKUlVjjyZVcZm4AAKvAwACFhb5RtbFwbv_mEdlNgQ",
+      "ep3": "BAACAgEAAxkBAAIFE2j7Sdmgow1bUjaeOJ8Y4gThjUhpAAKuAwACFhb5RoDr5QVCfs0NNgQ",
+      "ep4": "BAACAgEAAxkBAAIFFGj7SdlzWfsmrTTgRx4liamkiyvnAAKtAwACFhb5RtVxJfFo0A8YNgQ",
+      "ep5": "BAACAgEAAxkBAAIFFWj7SdniJpJKKUSyxpjPHsGfXIzlAAKwAwACFhb5Rl03eUQVdUT8NgQ",
+      "ep6": "BAACAgEAAxkBAAIFFmj7SdnWiR3X8VyF5vh5AY84y9HPAAKyAwACFhb5RsUUfJbj_-R8NgQ",
+      "ep7": "BAACAgEAAxkBAAIFF2j7SdmM2d3R4jEEPttzs4d1baWrAAKxAwACFhb5RiGxwnSN4e5KNgQ",
+      "ep8": "BAACAgEAAxkBAAIFGGj7SdnrmK0Nn88kG7cDyFUJZ8LdAAK0AwACFhb5Rsg2WXdtYx5eNgQ"
+   
+     
+          }
+  },
+  
   "pluto": {
     "poster": "https://i.pinimg.com/736x/7d/f0/3a/7df03ab3ce1a902cec6683388648dfe2.jpg",
     "episodes": {
