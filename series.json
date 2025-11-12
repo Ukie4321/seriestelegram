@@ -17,6 +17,22 @@
     }
   },
 
+  
+  "onimusha": {
+    "poster": "https://i.pinimg.com/736x/b4/7c/ea/b47ceacdb9928f55ccc071de17e44d08.jpg",
+    "episodes": {
+      "ep1": "BAACAgQAAxkBAAIFIWj7Se4YBzIAARO8nFyoQDDVdqBfmwACiRMAAhvRwVLr-0hJCc-SaTYE",
+      "ep2": "BAACAgQAAxkBAAIFImj7Se5xG1IV8qH7aB4_OSvXWh5_AAKKEwACG9HBUq2RXmHPLfWqNgQ",
+      "ep3": "BAACAgQAAxkBAAIFI2j7Se7cOjpvo6Kze8g0Qtcg64oMAAKMEwACG9HBUv4fjMQhAmlrNgQ",
+      "ep4": "BAACAgQAAxkBAAIFJGj7Se4NC5sqFe61orLY9w4eSwFpAAKNEwACG9HBUv6jcFqngtAsNgQ",
+      "ep5": "BAACAgQAAxkBAAIFJWj7Se5Hkka1NSQ0EYM5vyqxxsuqAAKOEwACG9HBUsmoo-lx0M_MNgQ",
+      "ep6": "BAACAgQAAxkBAAIFJmj7Se48BwMm7MEjAZyycxlDKaIKAAKPEwACG9HBUuJG5tCo-vEsNgQ",
+      "ep7": "BAACAgQAAxkBAAIFJ2j7Se6HpDMxbqBAfAcLigQICamtAAKQEwACG9HBUnn7_kIlfeiDNgQ",
+      "ep8": "BAACAgQAAxkBAAIFKGj7Se67YlGvfvlGYPdcRKEOPgJ1AAKVEwACG9HBUh0jDk_yhx7nNgQ"
+   
+     
+          }
+  },
 
   "junji_ito_maniac": {
     "poster": "https://i.pinimg.com/736x/3a/3a/6a/3a3a6a253956ab4a1459947c54275c3c.jpg",
