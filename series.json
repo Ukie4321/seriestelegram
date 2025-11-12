@@ -17,6 +17,20 @@
     }
   },
 
+  
+  "the_falcon_and_the_winter_soldier": {
+    "poster": "https://i.pinimg.com/736x/69/ea/2a/69ea2af99e758a07c7cd7568e96b9e63.jpg",
+    "episodes": {
+      "ep1": "BAACAgIAAxkBAAIG3WkUnrEVxHc4wZuOZlvRyhxDbXYUAAI-TQACZKCYSttXZInEAAE0RjYE",
+      "ep2": "BAACAgIAAxkBAAIG3mkUnrGCK37laaeX4b2hcSJMNB-zAAJFTQACZKCYSmmWVjwaSHsyNgQ",
+      "ep3": "BAACAgIAAxkBAAIG32kUnrHfhTwv4FSomqElrW61VORkAAJKTQACZKCYSu-kk-G7HKR7NgQ",
+      "ep4": "BAACAgIAAxkBAAIG4GkUnrFQ49TWWcQxGeo6yQAB4LvMTQACSE0AAmSgmErME6RvHghGKDYE",
+      "ep5": "BAACAgIAAxkBAAIG4WkUnrG_NvKaC-atw4CoKae0_9nSAAJNTQACZKCYSoXHE-Y9YmfJNgQ",
+      "ep6": "BAACAgIAAxkBAAIG4mkUnrF4IRlGoNqNO9jHIohGErhDAAJPTQACZKCYSmUUIi5mTNzoNgQ"
+
+     
+          }
+  },
 
   "bad_genius": {
     "poster": "https://i.pinimg.com/736x/2b/1b/40/2b1b4026c6aa7e15a35891ad82631a0a.jpg",
