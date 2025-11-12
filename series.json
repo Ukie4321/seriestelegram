@@ -18,6 +18,21 @@
   },
 
   
+  "pluto": {
+    "poster": "https://i.pinimg.com/736x/7d/f0/3a/7df03ab3ce1a902cec6683388648dfe2.jpg",
+    "episodes": {
+      "ep1": "BAACAgEAAxkBAAIFMWj7Sg1fxS86HahMGgkqUpIdxrp4AAK4AwACFhb5RmnUl3A109E0NgQ",
+      "ep2": "BAACAgEAAxkBAAIFMmj7Sg2kiHzZF3wzQDbC6kqMZm83AAK3AwACFhb5RkS4uVn-a-z2NgQ",
+      "ep3": "BAACAgEAAxkBAAIFM2j7Sg2JfoqmcvTPobjftzBCcm1AAAK5AwACFhb5Rqz6-3-bSuP0NgQ",
+      "ep4": "BAACAgEAAxkBAAIFNGj7Sg0IDF9IVywLLEJ5pGUFw161AAK2AwACFhb5Rje-YnS2ft3vNgQ",
+      "ep5": "BAACAgEAAxkBAAIFNWj7Sg3cyF8gFlzJX97ZzgH4OE-bAAK7AwACFhb5RuRYTE8FyRucNgQ",
+      "ep6": "BAACAgEAAxkBAAIFNmj7Sg1EmyGE0Vmd2bFdVRDfXpKjAAK6AwACFhb5RqrccF3dqvNgNgQ",
+      "ep7": "BAACAgEAAxkBAAIFN2j7Sg3vrgQodaPiFxgMJpMG8KQmAAK8AwACFhb5RplshzK67zlLNgQ",
+      "ep8": "BAACAgEAAxkBAAIFOGj7Sg2k9Eguliv6yLH_ZNXjlgvdAAK-AwACFhb5Rn099BNl-mpCNgQ"
+   
+     
+          }
+  },
   "onimusha": {
     "poster": "https://i.pinimg.com/736x/b4/7c/ea/b47ceacdb9928f55ccc071de17e44d08.jpg",
     "episodes": {
