@@ -18,6 +18,19 @@
   },
 
   
+  "ms_marvel": {
+    "poster": "https://i.pinimg.com/736x/64/db/5e/64db5e1794a14d7ed2a73a7a3d26d0cd.jpg",
+    "episodes": {
+      "ep1": "BAACAgIAAxkBAAIHCmkVJBu8bbUqvFE8VdKo6xnJpQmvAAJyTgACZKCYSluWtEiuqLQFNgQ",
+      "ep2": "BAACAgIAAxkBAAIHC2kVJBvYOgJo0Z_LF5qAtySgBAkKAAJ3TgACZKCYSrpA7lnGpuPVNgQ",
+      "ep3": "BAACAgIAAxkBAAIHDGkVJBt-Ua_TMmLBaI-YWwlK-iLjAAJ4TgACZKCYSr2_fZ6hXzWENgQ",
+      "ep4": "BAACAgIAAxkBAAIHDWkVJBu_vxEg134AAUm1KfhhZ-UjewAChU4AAmSgmEqkz4Fe_yXI8TYE",
+      "ep5": "BAACAgIAAxkBAAIHDmkVJBsuLGu8zpERbu5AVNoGeyl8AAJ7TgACZKCYSkYCCfEb4REkNgQ",
+      "ep6": "BAACAgIAAxkBAAIHD2kVJBuCY9j9ak_6oXRoB4mlmHllAAJ6TgACZKCYSq__Y8SgcpMVNgQ"
+
+     
+          }
+  },
   "yu_yu_hakusho": {
     "poster": "https://i.pinimg.com/736x/76/ac/ba/76acba0dd0ba3f29c29c35c695040aba.jpg",
     "episodes": {
