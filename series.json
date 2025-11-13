@@ -18,6 +18,18 @@
   },
 
   
+  "yu_yu_hakusho": {
+    "poster": "https://i.pinimg.com/736x/76/ac/ba/76acba0dd0ba3f29c29c35c695040aba.jpg",
+    "episodes": {
+      "ep1": "BAACAgUAAxkBAAIHAAFpFSBcyrLStQj2Ix-E7HQ3LMz3rgACihIAAvXGAAFXLWhgBcsDoh82BA",
+      "ep2": "BAACAgUAAxkBAAIHAWkVIFxsWBrLwgLIQh3bc3xP9CT_AAKLEgAC9cYAAVfzSUIxcWYfjjYE",
+      "ep3": "BAACAgUAAxkBAAIHAmkVIFwg684Rf8W8wEwIG0-AsJroAAKMEgAC9cYAAVdSWvBp5lTDlDYE",
+      "ep4": "BAACAgUAAxkBAAIHA2kVIFybophRw6cE_J6MgXa9uXqIAAKNEgAC9cYAAVfMRJqpQzWWyTYE",
+      "ep5": "BAACAgUAAxkBAAIHBGkVIFxu3VTC0i2qreR_0zHEPjduAAKOEgAC9cYAAVe9H9l99Am_TTYE"
+
+     
+          }
+  },
   "the_falcon_and_the_winter_soldier": {
     "poster": "https://i.pinimg.com/736x/69/ea/2a/69ea2af99e758a07c7cd7568e96b9e63.jpg",
     "episodes": {
