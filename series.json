@@ -17,6 +17,15 @@
     }
   },
 
+    "tester": {
+    "poster": "https://i.pinimg.com/736x/64/db/5e/64db5e1794a14d7ed2a73a7a3d26d0cd.jpg",
+    "episodes": {
+      "ep1": "BAACAgIAAxkBAAIHCmkVJBu8bbUqvFE8VdKo6xnJpQmvAAJyTgACZKCYSluWtEiuqLQFNgQ",
+      "ep2": "BAACAgIAAxkBAAIHC2kVJBvYOgJo0Z_LF5qAtySgBAkKAAJ3TgACZKCYSrpA7lnGpuPVNgQ"
+
+     
+          }
+  },
   
   "ms_marvel": {
     "poster": "https://i.pinimg.com/736x/64/db/5e/64db5e1794a14d7ed2a73a7a3d26d0cd.jpg",
