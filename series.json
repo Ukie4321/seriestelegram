@@ -17,6 +17,25 @@
     }
   },
 
+
+
+  "bisik_hati_lara": {
+    "poster": "https://cdn.jsdelivr.net/gh/Ukie4321/Mrzybposter@main/bisik%20hati%20lara.webp",
+    "episodes": {
+      "ep1": "BAACAgUAAxkBAAIHSmlHqUM2xRr_THxbLjDoxr3ASs2NAALhDwAC6FSoVIzqU9CB4sdoNgQ",
+      "ep2": "BAACAgUAAxkBAAIHS2lHqUNAhdEAAe2Wyvoi3VTG1s572QAC4g8AAuhUqFSrm3iMHjXk3TYE",
+      "ep3": "BAACAgUAAxkBAAIHTGlHqUMDu37h1gG6Bg5ddL7CUldcAALkDwAC6FSoVAYUp5dQM38uNgQ",
+      "ep4": "BAACAgUAAxkBAAIHTWlHqUNsFdwkidjiTHcudVh8wzQyAALlDwAC6FSoVC962Dcc9FPGNgQ",
+      "ep5": "BAACAgUAAxkBAAIHTmlHqUPEKDJHPiPYjBT8jg4CcVwaAALmDwAC6FSoVDdkpdOgFeqJNgQ",
+       "ep6": "BAACAgUAAxkBAAIHT2lHqUPXsxp_duHtm-W6B6UVuPJhAALnDwAC6FSoVF_ZRaFnRMbYNgQ",
+      "ep7": "BAACAgUAAxkBAAIHUGlHqUNkPO9hHMyi2IqPcJB2dRmoAALoDwAC6FSoVJqvM4c4RlWTNgQ",
+      "ep8": "BAACAgUAAxkBAAIHUWlHqUPIpfPnnFsAAajY-YeLIRiJvQAC6Q8AAuhUqFSobNmmM3Z5lDYE",
+      "ep9": "BAACAgUAAxkBAAIHUmlHqUPQVqc8DEA1IpGoePyc8GXCAALqDwAC6FSoVL76AdMyNC__NgQ",
+      "ep10": "BAACAgUAAxkBAAIHU2lHqUMjSIwfkyfp1nKf1ZzfqbKsAALrDwAC6FSoVGG-Q4FktQgPNgQ"
+
+    }
+  },
+  
       "man_vs_baby": {
     "poster": "https://cdn.jsdelivr.net/gh/Ukie4321/Mrzybposter@main/man%20vs%20baby.webp",
     "episodes": {
