@@ -17,11 +17,14 @@
     }
   },
 
-    "tester": {
-    "poster": "https://media.tenor.com/WUhQMsO1Wm4AAAAM/black-adam.gif",
+      "man_vs_baby": {
+    "poster": "https://cdn.jsdelivr.net/gh/Ukie4321/Mrzybposter@main/man%20vs%20baby.webp",
     "episodes": {
-      "ep1": "BAACAgIAAxkBAAIHCmkVJBu8bbUqvFE8VdKo6xnJpQmvAAJyTgACZKCYSluWtEiuqLQFNgQ",
-      "ep2": "BAACAgIAAxkBAAIHC2kVJBvYOgJo0Z_LF5qAtySgBAkKAAJ3TgACZKCYSrpA7lnGpuPVNgQ"
+      "ep1": "BAACAgQAAxkBAAIHImlHgf7VpbG2GaDO3DZWwRf2VW5WAAK7HAACtgzgUfsLLox2orQDNgQ",
+      "ep2": "BAACAgQAAxkBAAIHI2lHgf5IqtiwSnu9_ZzwM0y7DVLKAAK9HAACtgzgUdCfRSotBlTvNgQ",
+      "ep3": "BAACAgQAAxkBAAIHJGlHgf7MUEhakk3qkdspjZyUlTFBAALEHAACtgzgUZcjrGK3RQvUNgQ",
+      "ep4": "BAACAgQAAxkBAAIHJWlHgf4lRkk6elxZDoOnFkfd48tmAALLHAACtgzgUXEKricYl8NcNgQ"
+
 
      
           }
